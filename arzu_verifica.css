@@ -1,0 +1,41 @@
+body {
+	background-color:LightGray;
+}
+h1 {
+	text-align:center;
+    color:red;
+}
+h2 {
+	text-align:center;
+	color:red;
+}
+p {
+	text-align:center;
+}
+.container {
+	max-height:300px;
+	max-width:900px;
+	background-color:red;
+	text-align:center;
+	margin:auto;
+	border:1px,solid black;
+	border-radius:7px;
+}
+.container2 {
+	max-height:300px;
+	max-width:900px;
+	background-color:blue;
+	text-align:center;
+	margin:auto;
+	border:1px,solid black;
+	border-radius:7px;
+}
+.container3 {
+	max-height:300px;
+	max-width:900px;
+	background-color:green;
+	text-align:center;
+	margin:auto;
+	border:1px,solid black;
+	border-radius:7px;
+}
